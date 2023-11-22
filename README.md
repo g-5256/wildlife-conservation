@@ -1,12 +1,5 @@
 # Wildlife Conservation Using Machine Leanring
 
-[Project.pptx (1).pdf](https://github.com/g-5256/wildlife-conservation/files/13242616/Project.pptx.1.pdf)
-[BE Project Synopsis (1).pdf](https://github.com/g-5256/wildlife-conservation
-[Project Work Book.docx](https://github.com/g-5256/wildlife-conservation/files/13242623/Project.Work.Book.docx)
-/files/13242617/BE.Project.Synopsis.1.pdf)
-
-[Project Work Book (1).docx](https://github.com/g-5256/wildlife-conservation/files/13242641/Project.Work.Book.1.docx)
-
  [https://pdf.sciencedirectassets.com/272592/1-s2.0-S0301479723X00164/1-s2.0-S030147972301424X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLWVhc3QtMSJHMEUCIFowGII94PLe8t4GPXaTnA5ZVOiCFHTYlHi12OgBtiqHAiEA4bGfRWrvPtg2K7xjEhuwcjMDgA4LYTB9jokA5cSujY4qsgUIPRAFGgwwNTkwMDM1NDY4NjUiDIsdfnP9%2F1rSjArWxCqPBVHSHAKhvtvqKipZhbgnIABvb9yBqRX7ctrr6Y1hbbh1oVFn6eqU5TwhkZ7EaLjQPtdgyM52cJejeM7hUj3gI%2B5w1trxb5CvEOKmYYJJlU3yxdU3xJfHFbJ5j1Wt0ki%2BB3HiOEBbgrO2tcbTBviYXNBKy57crKCNk26g%2BAJfjLswD12Gt13ksl2AwZl3oAE45VrvDLrz%2FCi0LUYS8bitUPSKuVjeYfW3wbStetuSMsVxkfPLwkfitnSb0mb8KQTZo0%2F7LxugjiMsqbpAu5tDS2yN5GgTAmvkha4b6xy1isiI77ysRimrniDgzspvOpWnl9tyeK6He3vWE7hA%2BxidiV%2BmwaCnNPtsdEW%2BG1QCOyFbBK%2FKP1LSYqV805JdAu7TSP7NZqCPJv9wvBIiQiU7gOwhyWlNcKeyI7oMj5l%2FZyZtWtlP6lnv%2F7MOe]
 
 
